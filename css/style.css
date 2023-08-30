@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url("https://img.freepik.com/vetores-gratis/vetor-de-fundo-aquarela-floral-primavera-em-verde-com-ilustracao-de-folhas_53876-126350.jpg?w=900&t=st=1693252674~exp=1693253274~hmac=8ff59b848bc37dfdb52ec73dff4a23afa039497c71304335426eafc4a38726ff");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#txt1{
+    content: 0;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    background-image: url("https://media.snl.no/media/200137/article_topimage_shutterstock_528717871.png");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: center;
+}
+#txt2{
+    content: 0;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    background-image: url("https://benditacidadania.com.br/wp-content/uploads/2021/02/roma-capital-da-italia.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: center;
+}
